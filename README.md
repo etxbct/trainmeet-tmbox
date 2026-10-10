@@ -11,6 +11,8 @@ Servern äger trafikbeslut, skärmar, språk och tangenternas betydelse.
 Firmwaren visar bilden, håller sifferinmatning lokalt och hanterar hårdvara,
 nätverk och återanslutning. A–D är funktionsknappar, inte destinationer.
 
+Projektet är öppet och publicerat under MIT-licensen. Koden kan användas, granskas, ändras och distribueras enligt villkoren i [LICENSE](LICENSE).
+
 ## Benny: hämta och installera
 
 1. Uppdatera den lokala servern till minst **1.10.0**. Avsluta aktiva äldre
@@ -102,3 +104,7 @@ inte sätta ett eget nytt versionsnummer i sina pull requests.
 Kompilering, paketering och automatiska tester är inte fysiska bänktester.
 
 Repot innehåller inte iPhone-appen. Se [dokumentationsöversikten](docs/README.md).
+
+## Licens
+
+MIT © Beahead AB. Se [LICENSE](LICENSE).
