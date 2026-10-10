@@ -21,5 +21,5 @@ constexpr uint8_t TAMBOX_KEYPAD_ROWS[4] = {4, 5, 6, 7};
 constexpr uint8_t TAMBOX_KEYPAD_COLS[4] = {0, 1, 2, 3};
 static_assert(TAMBOX_LCD_ADDRESS != TAMBOX_KEYPAD_ADDRESS, "LCD and keypad need different I2C addresses");
 constexpr char TAMBOX_KEYS[] = "123A456B789C*0#D";
-constexpr char TAMBOX_FIRMWARE_VERSION[] = "0.7.6";
+constexpr char TAMBOX_FIRMWARE_VERSION[] = "0.7.7";
 constexpr char TAMBOX_MODEL[] = "NodeMCU ESP8266 PCF8574";
